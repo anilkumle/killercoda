@@ -1,14 +1,14 @@
 {
-  "title": "Kubernetes-expose-react-app",
-  "description": "Exposing deployment application to the pulicly",
+  "title": "Jenkins",
+  "description": "Build and push docker images to the registry with the help of jenkins pipeline",
   "details": {
     "intro": {
       "text": "intro.md",
-      "background": "foreground.sh"
+      "foreground": "foreground.sh"
     },
     "steps": [
       {
-        "title": "Expose Deployment react application",
+        "title": "JENKINS TASK",
         "text": "step1/text.md"
       }
     ],
