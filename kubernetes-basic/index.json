@@ -1,6 +1,6 @@
 {
-  "title": "Kubernetes-first_one",
-  "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps",
+  "title": "Kubernetes basic",
+  "description": "Uses Kubernetes cluster and performs user input verification in all steps",
   "details": {
     "intro": {
       "text": "intro.md"
@@ -19,6 +19,11 @@
     ],
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {"file": "hello.yml", "target": "~/", "chmod": "+w"}
+      ]
     }
   },
   "backend": {
