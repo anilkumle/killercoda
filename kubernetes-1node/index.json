@@ -8,7 +8,7 @@
     "steps": [
       {
         "title": "Install single node cluster",
-        "text": "step1/text.md",
+        "text": "step1/text.md"
       },
       {
         "title": "create a pod",
