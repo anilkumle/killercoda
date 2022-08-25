@@ -1,0 +1,42 @@
+{
+  "title": "Git-testing 12.2",
+  "description": "Git test-1",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "git test1",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "git test2",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "git test3",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
+      },
+      {
+        "title": "git test4",
+        "text": "step4/text.md",
+        "verify": "step4/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {"file": "app.py", "target": "~/", "chmod": "+w"}
+      ]
+    }
+},
+"backend": {
+  "imageid": "ubuntu"
+}
+}
