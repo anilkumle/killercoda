@@ -1,4 +1,4 @@
-add and push file app.py to branch "mybranchbackup"
+add and push file /root/app.py to branch "mybranchbackup"
 
 Note:You can use Bellow Credentials
 

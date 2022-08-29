@@ -1,2 +1,2 @@
 
-Install microk8s cluster.
+Install single node cluster like minicube,microk8s etc...

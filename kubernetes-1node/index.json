@@ -7,9 +7,8 @@
     },
     "steps": [
       {
-        "title": "Install microk8s cluster",
-        "text": "step1/text.md",
-        "verify": "step1/verify.sh"
+        "title": "Install single node cluster",
+        "text": "step1/text.md"
       },
       {
         "title": "create a pod",
