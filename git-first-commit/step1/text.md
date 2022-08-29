@@ -1,8 +1,8 @@
-Clone the Git repo url on same location: `https://github.com/anilkumle1/killercode.git`
+Clone the Git repo url on same location: `https://github.com/sakha-devops/git-assignment.git`
 
-username: `anilkumle1`
+username: `sakha-devops`
 
-password: `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`
+password: `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`
 
 create a new branch
 
