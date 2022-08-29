@@ -7,13 +7,13 @@ click here to [ACCESS JENKINS]({{TRAFFIC_HOST1_8080}}) server
 
 Write a Jenkins pipeline to CLONE, BUILD and PUSH the docker images to DOCKER-HUB
 
-Clone the repo url `https://github.com/anilkumle1/jenkins.git`
+Clone the repo url `https://github.com/sakha-devops/jenkins.git`
 
 Add the JENKINSFILE and commit and push
 
 ### docker image naming conversion:
 
- `anilkumle/sample-testing:{anything}`
+ `sakhadevopsdocker/jenkins:{tagname}`
 
 ### Required Credentails:
 
@@ -25,16 +25,16 @@ password: `admin@123`
 
 ###      Github:
 
-username: `anilkumle1`
+username: `sakhadevopsdocker`
 
-password:   `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`
+password:   `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`
 
 
 ###      Dockerhub:
 
-username: `anilkumle`
+username: ``
 
-password: `Athrz_lgn@123`
+password: `dckr_pat_Af2kENZ9cQRpzYiGnNnLzXjD-BU`
 
 ### Finally!
 
@@ -42,7 +42,7 @@ pull the newly pushed docker image and run the docker image
 
   use port number `5300`and access the application using below links
 
-WE SHOULD GET THE OUTPUT IN BROWSER "Web App with Python Flask!"
+WE SHOULD GET THE OUTPUT IN BROWSER "well done! you have completed the Jenkins Task"
 
 
 #### once you have done above steps access image content using this link:
