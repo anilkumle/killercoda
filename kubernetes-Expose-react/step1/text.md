@@ -11,7 +11,7 @@ Hello {YOUR NAME!}
 
 Fork this repo
 
-GIR URL: `https://github.com/anilkumle1/killercode-kubernetes-react.git`
+GIR URL: `https://github.com/sakha-devops/k8s-react.git`
 
 Build the Docker image
 
