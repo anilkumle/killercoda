@@ -1,6 +1,6 @@
 {
-  "title": "Kubernetes 1node",
-  "description": "Uses Kubernetes cluster and performs user input verification in all steps",
+  "title": "Install Minicube, Microk8s",
+  "description": "Use Ubuntu terminal install the requirements",
   "details": {
     "intro": {
       "text": "intro.md"
