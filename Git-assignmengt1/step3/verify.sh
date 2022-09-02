@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /root/killercoda_biraj
+cd /root/git-assignment
 git checkout mybranchbackup
