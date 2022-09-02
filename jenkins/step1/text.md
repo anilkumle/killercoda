@@ -38,11 +38,13 @@ password: `dckr_pat_Af2kENZ9cQRpzYiGnNnLzXjD-BU`
 
 ### Finally!
 
-pull the newly pushed docker image and run the docker image
+pull the newly pushed docker image from the dokcerhub and run the docker image in the terminalSS
 
   use port number `5300`and access the application using below links
 
 WE SHOULD GET THE OUTPUT IN BROWSER "well done! you have completed the Jenkins Task"
+
+[ACCESS CONTAINER]({{TRAFFIC_HOST1_5300}})
 
 
 #### once you have done above steps access image content using this link:
