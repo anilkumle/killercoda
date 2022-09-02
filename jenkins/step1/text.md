@@ -25,14 +25,14 @@ password: `admin@123`
 
 ###      Github:
 
-username: `sakhadevopsdocker`
+username: `sakha-devops`
 
 password:   `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`
 
 
 ###      Dockerhub:
 
-username: ``
+username: `sakhadevopsdocker`
 
 password: `dckr_pat_Af2kENZ9cQRpzYiGnNnLzXjD-BU`
 
