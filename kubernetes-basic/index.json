@@ -1,5 +1,5 @@
 {
-  "title": "Kubernetes basic",
+  "title": "Kubernetes basics",
   "description": "Uses Kubernetes cluster and performs user input verification in all steps",
   "details": {
     "intro": {
@@ -20,12 +20,7 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": {
-      "host01": [
-        {"file": "hello.yml", "target": "~/", "chmod": "+w"}
-      ]
-    }
-  },
+    
   "backend": {
     "imageid": "kubernetes-kubeadm-2nodes"
   }
