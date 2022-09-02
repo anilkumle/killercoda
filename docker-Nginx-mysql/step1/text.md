@@ -10,7 +10,7 @@ Instruction to write the docker-compose file:
 
 1.DataBase Container:
 
-Container_name should be `database`
+Container_name should be `anything`
 Bind the ports for Database "3306 & 33060"
 along with Db pass as the enviroment varibale
 `MYSQL_ROOT_PASSWORD=movie123`
@@ -18,7 +18,7 @@ along with Db pass as the enviroment varibale
 
 2.Webapp Container:
 
-Container_name should be  `webapp`
+Container_name should be  `anything`
 Bind the port for webapp "8080"
 
 
@@ -49,7 +49,8 @@ https://docs.docker.com/compose/compose-file/
 
 Example nginx conf file:
 
-`server {
+server {
+
         listen 80;
 
         server_name *****;
@@ -60,9 +61,8 @@ Example nginx conf file:
 
         }
 
-}`
+}
 
-server name : use `localhost`
 
 Now access Nginx using this link:
 
