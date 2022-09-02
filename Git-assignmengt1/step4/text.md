@@ -1,7 +1,9 @@
-add and push file /root/app.py to branch "mybranchbackup"
+Finally copy the file `app.py` which is present on `/root/app.py` to the git repo"
 
-Note:You can use Bellow Credentials
+Add the newly copied files to staging environment and commit the code and push it to the git origin
 
-userName: `sakha-devops`
+### Github Credentails:
 
-password: `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_uYHTPXl4ENNBy0fLg4UQo0Rn12Z0af33PvFg`
+UserName: `sakha-devops`
+
+Password: `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`
