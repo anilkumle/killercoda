@@ -2,7 +2,7 @@ Clone the Git repo url on same location: `https://github.com/sakha-devops/git-as
 
 username: `sakha-devops`
 
-password: `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`
+password: `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_uYHTPXl4ENNBy0fLg4UQo0Rn12Z0af33PvFg`
 
 create a new branch
 
