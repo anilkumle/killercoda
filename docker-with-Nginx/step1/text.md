@@ -12,4 +12,4 @@ Requirements:
 
 Run the docker image with the port number `5300`
 
-Onece this is done click on NEXT button --------->>
+Onece this is done click on CHECK button --------->>

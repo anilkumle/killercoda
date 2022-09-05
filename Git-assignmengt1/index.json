@@ -1,6 +1,6 @@
 {
-  "title": "Git-Assignment",
-  "description": "Git test",
+  "title": "Git-Test",
+  "description": "you have to perform basic git commands",
   "details": {
     "intro": {
       "text": "intro.md"
