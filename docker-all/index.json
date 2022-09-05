@@ -1,5 +1,5 @@
 {
-  "title": "Docker-Copy",
+  "title": "Docker-copy, commit & Run",
   "description": "Docker test-2",
   "time": "15 minutes",
   "details": {
@@ -13,17 +13,17 @@
         "verify": "step1/verify.sh"
       },
       {
-        "title": "copy files to the container",
+        "title": "Run both docker images",
         "text": "step2/text.md",
         "verify": "step2/verify.sh"
       },
       {
-        "title": "copy files to the container",
+        "title": "Run the docker image",
         "text": "step3/text.md",
         "verify": "step3/verify.sh"
       },
       {
-        "title": "copy files to the container",
+        "title": "commit the docker container",
         "text": "step4/text.md",
         "verify": "step4/verify.sh"
       }
