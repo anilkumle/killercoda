@@ -1,6 +1,6 @@
 {
   "title": "Kubernetes-expose-react-app",
-  "description": "Exposing deployment application to the pulicly",
+  "description": "Exposing deployment application and pass the enviroment variles",
   "details": {
     "intro": {
       "text": "intro.md",

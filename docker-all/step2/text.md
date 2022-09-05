@@ -6,7 +6,7 @@ Run the following commands
 
 `docker run -it -d -p 5200:5200 --name=test1 alpine:latest`
 
-`docker run -it -d --name=test1 -p 8300:8300 node:alpine3.15`
+`docker run -itd --name=test1 -p 8300:8300 node:alpine3.15`
 
 Why does this not work?
 
