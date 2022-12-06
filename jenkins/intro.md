@@ -17,8 +17,8 @@ Pre-requisite:
 
 1. Jenkins server(installed with port 8080)
 
-2. Docker also installed on the same Jenkins server.
+2. Docker also installed iin this server.
 
-3. GIT installed on same server.
+3. GIT also installed in same server.
 
 you will get the Credentails in next page ------->>>>>
