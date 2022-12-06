@@ -5,6 +5,7 @@ git clone https://github.com/sakha-devops/jenkins_data.git
 cp -r jenkins_data/jenkins_home /var/lib/docker/volumes
 sleep 2
 chown -R ubuntu:ubuntu /var/lib/docker/volumes/jenkins_home
+rm -rf /root/jenkins_data
 
 
 
