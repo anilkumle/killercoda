@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker login -u anilkumle -p"Athrz_lgn@123"
+docker login -u sakhadevopsdocker -p"dckr_pat_Af2kENZ9cQRpzYiGnNnLzXjD-BU"
