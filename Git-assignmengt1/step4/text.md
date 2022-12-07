@@ -6,4 +6,4 @@ Add the newly copied files to staging environment and commit the code and push i
 
 UserName: `sakha-devops`
 
-Password: `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`
+Password: `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`
