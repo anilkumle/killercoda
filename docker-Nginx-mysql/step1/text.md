@@ -11,7 +11,7 @@ Instruction to write the docker-compose file:
 1.DataBase Container:
 
 Container_name should be `anything`
-Bind the ports for Database "3306 & 33060"
+Bind the ports for Database "3306"
 along with Db pass as the enviroment varibale
 `MYSQL_ROOT_PASSWORD=movie123`
 
