@@ -27,7 +27,7 @@ password: `admin@123`
 
 username: `sakha-devops`
 
-password:   `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`
+password:   `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`
 
 
 ###      Dockerhub:
