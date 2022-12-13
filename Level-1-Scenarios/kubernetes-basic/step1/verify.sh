@@ -1,3 +1,3 @@
 #!/bin/bash
 
-kubectl get pod helloworld
+kubectl get pod my-pod
