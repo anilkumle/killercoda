@@ -3,7 +3,7 @@ Clone the below git repo
 
 user_name: `sakha-devops`
 
-password: `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`
+password: `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`
 
 
 
